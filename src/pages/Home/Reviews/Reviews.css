@@ -1,0 +1,8 @@
+.reviews img{
+    width:150px;
+    margin: auto;
+}
+.reviews .carousel-caption{
+    position: revert;
+    padding: 35px;
+}
